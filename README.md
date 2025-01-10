@@ -1,2 +1,2 @@
 # RL_balatro
-RL_balatro
+Learning ML with reinforcement Learning
