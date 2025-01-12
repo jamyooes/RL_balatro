@@ -1,4 +1,11 @@
 -----------------------------------
+Day 2:
+What Did I do?
+Find sources to learn from and started with hugging face's tutorial on deep-rl
+
+Thoughts:
+No Clue where to start, so starting here
+-----------------------------------
 Day 1:
 What did I do?
 Nothing much zzz
